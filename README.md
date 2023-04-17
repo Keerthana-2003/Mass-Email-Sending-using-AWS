@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/93040835/232543220-56457a97-0dd8-41a1-8540-f5d1017dca29.png)
+
 # Mass Email Sending using AWS Serverless Services
 Mass emailing is a common requirement for businesses, organizations, and individuals alike. However, sending a large number of emails manually can be time-consuming and error-prone. One way to automate this process is by using Amazon Web Services:
 
